@@ -19,7 +19,7 @@
 				    </thead>
 				        <?php
 						foreach($the_dir as $name){
-							if($name === '..' or $name === '.'){
+							if($name === '..' or $name === '.' or $name === '.htaccess'){
 								continue;
 							}
 							$url = './uploads/images/'.$name;	

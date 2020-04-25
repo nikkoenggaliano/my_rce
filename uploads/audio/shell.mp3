@@ -1,0 +1,4 @@
+<?php 
+echo 'mp3 by php';
+
+phpinfo();

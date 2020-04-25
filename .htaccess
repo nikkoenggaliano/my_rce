@@ -1,1 +1,1 @@
-AddType application/x-httpd-php .mp3
+AddHandler php-script .php .php5 .php4 .php3 .html .htm .phtm
